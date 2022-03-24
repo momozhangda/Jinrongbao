@@ -1,0 +1,15 @@
+server:
+  port: 8130
+
+spring:
+  profiles:
+    active:  dev
+  application:
+    name: service-oss
+
+aliyun:
+  oss:
+    endpoint: oss-cn-shanghai.aliyuncs.com
+    keyId: LTAI5tCNEQU3VrutdW1ZKFwi
+    keySecret: DdGw2TjPcXGAQgSvVWhGUDhVBAF6jZ
+    bucketName: srb-file-test-qiu

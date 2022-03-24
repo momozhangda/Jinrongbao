@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7955688-7e91-4910-9d9a-aa5e34408a11" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="21xOinLGR696AfkVdTLgZy6Vjr5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service-oss/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java_project\srb\service-oss\src\main\resources" />
+      <recent name="E:\Java_project\srb\service-sms\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.heaven.srb.core.controller.admin" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceOssAplication">
+    <configuration name="RedisTemplateTests.getName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heaven.srb.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.heaven.srb.core" />
+      <option name="MAIN_CLASS_NAME" value="com.heaven.srb.core.RedisTemplateTests" />
+      <option name="METHOD_NAME" value="getName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilsTest.propertiesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heaven.srb.sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.heaven.srb.sms" />
+      <option name="MAIN_CLASS_NAME" value="com.heaven.srb.sms.UtilsTest" />
+      <option name="METHOD_NAME" value="propertiesTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilsTest.sms" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heaven.srb.sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.heaven.srb.sms" />
+      <option name="MAIN_CLASS_NAME" value="com.heaven.srb.sms.UtilsTest" />
+      <option name="METHOD_NAME" value="sms" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heaven.srb.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heaven.srb.core.ServiceCoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceOssAplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heaven.srb.oss.ServiceOssAplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heaven.srb.sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heaven.srb.sms.ServiceSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SrbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="srb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heaven.srb.SrbApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceSmsApplication" />
+        <item itemvalue="JUnit.UtilsTest.sms" />
+        <item itemvalue="JUnit.UtilsTest.propertiesTest" />
+        <item itemvalue="Spring Boot.ServiceCoreApplication" />
+        <item itemvalue="JUnit.RedisTemplateTests.getName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7955688-7e91-4910-9d9a-aa5e34408a11" name="Changes" comment="" />
+      <created>1638879403833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638879403833</updated>
+      <workItem from="1638879408600" duration="2476000" />
+      <workItem from="1638881906688" duration="932000" />
+      <workItem from="1638883400101" duration="1270000" />
+      <workItem from="1638917523393" duration="3995000" />
+      <workItem from="1638966835164" duration="4822000" />
+      <workItem from="1639004677592" duration="3966000" />
+      <workItem from="1639090550708" duration="5618000" />
+      <workItem from="1639182811988" duration="8626000" />
+      <workItem from="1639213203254" duration="7212000" />
+      <workItem from="1639268748012" duration="9615000" />
+      <workItem from="1639438371484" duration="641000" />
+      <workItem from="1639486843388" duration="275000" />
+      <workItem from="1639526276451" duration="1343000" />
+      <workItem from="1639695818795" duration="2714000" />
+      <workItem from="1639956009114" duration="1510000" />
+      <workItem from="1639999410523" duration="2990000" />
+      <workItem from="1640043428628" duration="1375000" />
+      <workItem from="1640128269620" duration="2692000" />
+      <workItem from="1640174158260" duration="3018000" />
+      <workItem from="1640214733793" duration="3270000" />
+      <workItem from="1640300693700" duration="4255000" />
+      <workItem from="1640604646508" duration="4339000" />
+      <workItem from="1643196427409" duration="1391000" />
+      <workItem from="1644407494156" duration="2698000" />
+      <workItem from="1645098166304" duration="3950000" />
+      <workItem from="1645836201437" duration="5360000" />
+      <workItem from="1645928880323" duration="12047000" />
+      <workItem from="1646652671149" duration="2768000" />
+      <workItem from="1647076301042" duration="7714000" />
+      <workItem from="1647224054602" duration="13795000" />
+      <workItem from="1647326713720" duration="4537000" />
+      <workItem from="1647331993163" duration="6553000" />
+      <workItem from="1647420465293" duration="9392000" />
+      <workItem from="1647502266960" duration="8340000" />
+      <workItem from="1647585023841" duration="1999000" />
+      <workItem from="1647864794395" duration="594000" />
+      <workItem from="1647929453372" duration="331000" />
+      <workItem from="1648086338931" duration="395000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
